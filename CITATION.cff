@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software or the associated datasets, please cite the article below."
+title: "Predicting Commercialization Success of Renewable-Energy Patents"
+abstract: >-
+  A hybrid multimodal framework combining transformer text embeddings
+  (BERT/ELECTRA) with gradient boosting (XGBoost/LightGBM) to predict
+  patent commercialization success, measured as assignment frequency,
+  for USPTO Y02E renewable-energy patents (2014-2023).
+type: software
+authors:
+  - family-names: Nazari
+    given-names: Pouya
+    affiliation: "Islamic Azad University, Science and Research Branch, Tehran"
+  - family-names: Pilevari
+    given-names: Nazanin
+  - family-names: Shakeri
+    given-names: Arnoosh
+  - family-names: Khadivar
+    given-names: Ameneh
+keywords:
+  - patent analytics
+  - technology commercialization
+  - technology management
+  - BERT
+  - ELECTRA
+  - gradient boosting
+  - SHAP
+  - renewable energy
+license: MIT
+preferred-citation:
+  type: article
+  title: >-
+    Predicting commercialization in renewable energy patents: A hybrid
+    multimodal framework integrating BERT and ELECTRA embeddings with
+    gradient boosting
+  authors:
+    - family-names: Nazari
+      given-names: Pouya
+    - family-names: Pilevari
+      given-names: Nazanin
+    - family-names: Shakeri
+      given-names: Arnoosh
+    - family-names: Khadivar
+      given-names: Ameneh
+  journal: "World Patent Information"
+  publisher:
+    name: Elsevier
