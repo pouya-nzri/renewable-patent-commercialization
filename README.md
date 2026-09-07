@@ -88,7 +88,7 @@ Original sources: the public **USPTO Patent Assignment Dataset** and **Google Pa
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/renewable-patent-commercialization.git
+git clone https://github.com/<pouya_nzri>/renewable-patent-commercialization.git
 cd renewable-patent-commercialization
 
 python -m venv .venv
