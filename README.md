@@ -5,8 +5,8 @@ A hybrid multimodal framework combining **transformer text embeddings (BERT / EL
 Commercialization success is measured as **assignment frequency** — the number of recorded ownership transfers — a forward-looking market signal, rather than backward-looking citation counts.
 
 📄 **Paper:** *Predicting commercialization in renewable energy patents: A hybrid multimodal framework integrating BERT and ELECTRA embeddings with gradient boosting* — **World Patent Information** (Elsevier).
-DOI: `<PASTE-YOUR-ARTICLE-DOI-HERE>`
-
+DOI: [10.1016/j.wpi.2026.102464](https://doi.org/10.1016/j.wpi.2026.102464)
+   
 💾 **Data:** [Zenodo record 21478629](https://zenodo.org/records/21478629)
 
 ---
